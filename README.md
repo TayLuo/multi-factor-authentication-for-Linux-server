@@ -5,5 +5,7 @@ Multi-factor authentication is a method of confirming your identity using at lea
 I will use the Google Authenticator app available for Android (in the Play Store) and iOS (in iTunes) to generate authentication codes. I will provide step by step instructions on how to set up two factor authentication with Google Authenticator.
 
 prerequisite: 
+
   Azure Accout
+
   Smartphone with Google Authenticator app installed
