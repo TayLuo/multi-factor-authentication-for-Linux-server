@@ -31,4 +31,12 @@ Here are the steps:
 
 
    sudo systemctl start ssh
+
    sudo systemctl enable ssh
+
+5. verify that the SSH server is running
+
+<p align="center"> </p>
+<img src="https://imgur.com/pDi2jpp.png" height="80%" width="80%" >
+<br />
+   
