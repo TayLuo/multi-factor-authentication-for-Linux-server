@@ -29,6 +29,6 @@ Here are the steps:
 <br />
   4. Start and Enable the OpenSSH Service:
 
-   sudo systemctl start ssh
 
+   sudo systemctl start ssh
    sudo systemctl enable ssh
