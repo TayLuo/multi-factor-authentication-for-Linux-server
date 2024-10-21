@@ -6,6 +6,6 @@ I will use the Google Authenticator app available for Android (in the Play Store
 
 prerequisite: 
 
-  -[Azure Accout](https://azure.microsoft.com/en-us/get-started/azure-portal)
+  [Azure Accout](https://azure.microsoft.com/en-us/get-started/azure-portal)
 
-  -[Smartphone with Google Authenticator app installed](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&pli=1)
+  [Smartphone with Google Authenticator app installed](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&pli=1)
