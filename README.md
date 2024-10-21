@@ -28,5 +28,7 @@ Here are the steps:
 <img src="https://imgur.com/9u4OYWA.png" height="80%" width="80%" >
 <br />
   4. Start and Enable the OpenSSH Service:
+
    sudo systemctl start ssh
+
    sudo systemctl enable ssh
