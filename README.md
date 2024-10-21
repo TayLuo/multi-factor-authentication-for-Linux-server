@@ -9,3 +9,14 @@ prerequisite:
   [Azure Accout](https://azure.microsoft.com/en-us/get-started/azure-portal)
 
   [Smartphone with Google Authenticator app installed](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&pli=1)
+
+
+Here are the steps: 
+  1. Installing and configuring required packages
+   <p align="center"> </p> 
+<img src="https://imgur.com/U12MVRX.png" height="80%" width="80%" >
+<br />
+3.On the right side, click on "Native SSH", then click "select"
+<p align="center"> </p>
+<img src="https://imgur.com/VDnBU86.png" height="80%" width="80%" >
+<br />
