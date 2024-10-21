@@ -12,7 +12,7 @@ prerequisite:
 
 
 Here are the steps: 
-  2. Install OpenSSH Server
+  1. Install OpenSSH Server
    <p align="center"> </p> 
 <img src="https://imgur.com/aNlhVGs.png" height="80%" width="80%" >
 <br />
@@ -20,7 +20,10 @@ Here are the steps:
    <p align="center"> </p> 
 <img src="https://imgur.com/U12MVRX.png" height="80%" width="80%" >
 <br />
-  2.On the right side, click on "Native SSH", then click "select"
+  3.Configuring SSH, Modify /etc/ssh/sshd_config – change "ChallengeResponseAuthentication from no to yes", and uncomment the line
 <p align="center"> </p>
-<img src="https://imgur.com/VDnBU86.png" height="80%" width="80%" >
+<img src="https://imgur.com/sQmHPEw.png" height="80%" width="80%" >
+<br />
+<p align="center"> </p>
+<img src="https://imgur.com/9u4OYWA.png" height="80%" width="80%" >
 <br />
