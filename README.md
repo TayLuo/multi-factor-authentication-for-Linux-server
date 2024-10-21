@@ -12,11 +12,15 @@ prerequisite:
 
 
 Here are the steps: 
-  1. Installing and configuring required packages
+  2. Install OpenSSH Server
+   <p align="center"> </p> 
+<img src="https://imgur.com/aNlhVGs.png" height="80%" width="80%" >
+<br />
+  2. Installing and configuring required packages
    <p align="center"> </p> 
 <img src="https://imgur.com/U12MVRX.png" height="80%" width="80%" >
 <br />
-3.On the right side, click on "Native SSH", then click "select"
+  2.On the right side, click on "Native SSH", then click "select"
 <p align="center"> </p>
 <img src="https://imgur.com/VDnBU86.png" height="80%" width="80%" >
 <br />
