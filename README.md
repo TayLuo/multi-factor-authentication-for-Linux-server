@@ -44,7 +44,7 @@ Here are the steps:
 <img src="https://imgur.com/2tuxHzd.png" height="80%" width="80%" >
 <br />
 
-2. Installing and configuring required packages
+ 7. A QR code will be generated on the terminal after setp 6, use the google authenticator app to scan the code.
    <p align="center"> </p> 
-<img src="https://imgur.com/U12MVRX.png" height="80%" width="80%" >
+<img src="https://imgur.com/bbIqcnJ.png" height="80%" width="80%" >
 <br />
