@@ -34,9 +34,17 @@ Here are the steps:
 
    sudo systemctl enable ssh
 
-5.verify that the SSH server is running
+ 5.verify that the SSH server is running
 
 <p align="center"> </p>
 <img src="https://imgur.com/pDi2jpp.png" height="80%" width="80%" >
 <br />
-   
+  6.  In a terminal, run the google-authenticator command
+   <p align="center"> </p> 
+<img src="https://imgur.com/2tuxHzd.png" height="80%" width="80%" >
+<br />
+
+2. Installing and configuring required packages
+   <p align="center"> </p> 
+<img src="https://imgur.com/U12MVRX.png" height="80%" width="80%" >
+<br />
