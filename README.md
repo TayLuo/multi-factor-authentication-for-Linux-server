@@ -52,7 +52,11 @@ Here are the steps:
 8. It will ask you a series of questions, here is a recommended configuration:
 
 Make tokens “time-base””: yes
+
 Update the .google_authenticator file: yes
+
 Disallow multiple uses: yes
+
 Increase the original generation time limit: no
+
 Enable rate-limiting: yes
