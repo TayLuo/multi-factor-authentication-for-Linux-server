@@ -48,3 +48,11 @@ Here are the steps:
    <p align="center"> </p> 
 <img src="https://imgur.com/bbIqcnJ.png" height="80%" width="80%" >
 <br />
+
+8. It will ask you a series of questions, here is a recommended configuration:
+
+Make tokens “time-base””: yes
+Update the .google_authenticator file: yes
+Disallow multiple uses: yes
+Increase the original generation time limit: no
+Enable rate-limiting: yes
