@@ -21,12 +21,17 @@ Here are the steps:
 <br />
   2. Installing and configuring required packages
 
-		sudo apt install openssh
+		sudo apt install libpam-google-authenticator
   
    <p align="center"> </p> 
 <img src="https://imgur.com/U12MVRX.png" height="80%" width="80%" >
 <br />
   3.Configuring SSH, Modify /etc/ssh/sshd_config – change "ChallengeResponseAuthentication from no to yes", and uncomment the line
+
+		sudo vi /etc/ssh/sshd_config 
+
+  		# ChallengeResponseAuthentication yes
+
 <p align="center"> </p>
 <img src="https://imgur.com/sQmHPEw.png" height="80%" width="80%" >
 <br />
@@ -36,11 +41,13 @@ Here are the steps:
   4. Start and Enable the OpenSSH Service:
 
 
-   sudo systemctl start ssh
+   		sudo systemctl start ssh
 
-   sudo systemctl enable ssh
+   		sudo systemctl enable ssh
 
  5.verify that the SSH server is running
+
+ 		systemctl status ssh
 
 <p align="center"> </p>
 <img src="https://imgur.com/pDi2jpp.png" height="80%" width="80%" >
