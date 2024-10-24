@@ -14,7 +14,7 @@ prerequisite:
 Here are the steps: 
   1. Install OpenSSH Server
 
-    	sudo apt update -y
+    	  	sudo apt update -y
 
    <p align="center"> </p> 
 <img src="https://imgur.com/aNlhVGs.png" height="80%" width="80%" >
