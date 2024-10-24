@@ -53,6 +53,9 @@ Here are the steps:
 <img src="https://imgur.com/pDi2jpp.png" height="80%" width="80%" >
 <br />
   6.  In a terminal, run the google-authenticator command
+
+		google-authenticator
+  
    <p align="center"> </p> 
 <img src="https://imgur.com/2tuxHzd.png" height="80%" width="80%" >
 <br />
