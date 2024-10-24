@@ -13,6 +13,8 @@ prerequisite:
 
 Here are the steps: 
   1. Install OpenSSH Server
+
+    
    <p align="center"> </p> 
 <img src="https://imgur.com/aNlhVGs.png" height="80%" width="80%" >
 <br />
