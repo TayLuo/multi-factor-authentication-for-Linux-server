@@ -20,6 +20,9 @@ Here are the steps:
 <img src="https://imgur.com/aNlhVGs.png" height="80%" width="80%" >
 <br />
   2. Installing and configuring required packages
+
+		sudo apt install openssh
+  
    <p align="center"> </p> 
 <img src="https://imgur.com/U12MVRX.png" height="80%" width="80%" >
 <br />
